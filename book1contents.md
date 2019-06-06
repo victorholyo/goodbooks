@@ -8,28 +8,28 @@
 
 ## Part 1: What Am I? (25,000 words)
 
-Chapter 1: Why Am I Here?
-Chapter 2: What Do I Love?
-Chapter 3: Where Am I Going?
-Chapter 4: Looking Back at the Past
-Chapter 5: Looking Into the Future
-Chapter 6: Spirituality
+1. Chapter 1: Why Am I Here?
+2. Chapter 2: What Do I Love?
+3. Chapter 3: Where Am I Going?
+4. Chapter 4: Looking Back at the Past
+5. Chapter 5: Looking Into the Future
+6. Chapter 6: Spirituality
 
 ## Part 2: What Do I Do? (20,000 words)
 
-Chapter 1: Planning the Next Phase
-Chapter 2: Learning and Mindset
-Chapter 3: Reading and Meditation
-Chapter 4: Getting Ready For the Work
+7. Chapter 1: Planning the Next Phase
+8. Chapter 2: Learning and Mindset
+9. Chapter 3: Reading and Meditation
+10. Chapter 4: Getting Ready For the Work
 
 ## Part 3: How Do I Do It? (20,000 words)
-Chapter 1: Putting the Plan into Action
-Chapter 2: Persistence. Perseverance, Will Power and Determination
+11. Chapter 1: Putting the Plan into Action
+12. Chapter 2: Persistence. Perseverance, Will Power and Determination
 
 ## Part 4: Keep Growing (10,000 words)
-Chapter 1: Life Long Learning
-Chapter 2: Forever Growing
-Chapter 3: Never Give Up
-Chapter 4: Healthy and Relationships
+14. Chapter 1: Life Long Learning
+15. Chapter 2: Forever Growing
+16. Chapter 3: Never Give Up
+17. Chapter 4: Healthy and Relationships
 
 ## Conclusion (2500 words)
